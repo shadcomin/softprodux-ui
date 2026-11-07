@@ -1,0 +1,15 @@
+:root {
+  --spx-primary: #6155e8;
+  --spx-primary-foreground: #ffffff;
+  --spx-background: #ffffff;
+  --spx-foreground: #24223d;
+  --spx-border: #d9dce7;
+  --spx-radius: 0.625rem;
+}
+[data-theme='dark'] {
+  --spx-primary: #a59cff;
+  --spx-primary-foreground: #19152c;
+  --spx-background: #151521;
+  --spx-foreground: #f5f5fc;
+  --spx-border: #39394a;
+}
